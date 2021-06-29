@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Major Regression">
+  <test name="All Test cases">
+    <packages>
+      <package name="tests"/>
+    </packages>
+  </test> <!-- All Test cases -->
+</suite> <!-- Major Regression -->
